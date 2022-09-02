@@ -6,7 +6,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Nunito Sans', sans-serif;
-    /* border: 1px solid red; */
 }
 
 header {
@@ -115,7 +114,6 @@ nav {
     width: 90%;
     height: 100%;
     margin: 0 auto;
-    /* border: 1px solid red; */
 }
 
 .hero-text {
@@ -125,15 +123,12 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-right: 2rem;
     gap: 2rem;
     z-index: 100;
 }
 h2 {
-    /* width: 50%; */
     font-size: 3.8em;
     font-weight: 700;
-    line-height: 55px;
     padding: 0;
     margin: 0;
     color: #fff;
@@ -143,19 +138,17 @@ h2 {
 .hero-text p {
     width: 60%;
     font-size: 1.2em;
-    line-height: 30px;
     font-weight: 400;
-    margin-top: 1.5rem;
     text-align: center;
 }
 
-.hero-image {
-    /* align-self: flex-end; */
+/* .hero-image {
+    align-self: flex-end;
     height: 100%;
     width: 100%;
-    /* padding-top: 1rem; */
-    /* border: 1px solid red; */
-}
+    padding-top: 1rem;
+    border: 1px solid red;
+} */
 
 .hero-image img {
     width: 100%;
@@ -269,31 +262,23 @@ footer {
 
     .hero {
         height: 100%;
-        /* padding-top: 5rem; */
     }
     .hero-holder {
         flex-wrap: wrap;
         align-items: center;
         width: 100%;
     }
-
-    .hero-text {
-        padding: 3rem 1rem 0;
-    }
     
     h2 {
         text-align: center;
         font-size: 1.9em;
-        line-height: 36px;
         width: 100%;
     }
 
     .hero-text p {
         width: 100%;
         font-size: .9em;
-        line-height: 26px;
-        padding: 1rem;
-        margin-top: 0;
+        padding: 0 1rem;
         text-align: center;
     }
 
