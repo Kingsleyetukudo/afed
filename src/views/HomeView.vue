@@ -15,7 +15,8 @@
 
             <div class="act-btn">
                 <router-link to="/" class="signin">Sign In</router-link>
-                <router-link to="/register" class="signup">Sign Up</router-link>
+                <!-- <router-link to="/register" class="signup">Sign Up</router-link> -->
+                <a href="https://memberly.vercel.app/event/2ef860b9-a76f-4dad-9fdd-307237f4eb05" class="signup">Sign Up</a>
             </div>
         </nav>
     </header>
