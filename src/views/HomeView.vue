@@ -16,7 +16,7 @@
             <div class="act-btn">
                 <router-link to="/" class="signin">Sign In</router-link>
                 <!-- <router-link to="/register" class="signup">Sign Up</router-link> -->
-                <a href="https://memberly.vercel.app/event/2ef860b9-a76f-4dad-9fdd-307237f4eb05" class="signup">Sign Up</a>
+                <a href="https://memberly.vercel.app/event/2ef860b9-a76f-4dad-9fdd-307237f4eb05" class="signup">Register</a>
             </div>
         </nav>
     </header>
@@ -67,7 +67,7 @@
                     <div class="card-image">
                         <img src="../assets/graduation-cap-solid.svg" alt="">
                     </div>
-                    <h5>Jounor Secondary</h5>
+                    <h5>Junior Secondary</h5>
                     <p>Education is the most powerfull weapon which you can use to change the world</p>
                 </div>
                 <div class="card">
