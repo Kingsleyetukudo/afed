@@ -118,8 +118,8 @@ export default {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color:#00afef4b;
+    background-color:#00afef34;
     top: 0;
     
 }
-</style>
+</style> 
